@@ -1,0 +1,12 @@
+# Environment variables and credentials
+.env
+firebase_credentials.json
+
+# Python virtual environment
+venv/
+__pycache__/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
